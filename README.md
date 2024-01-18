@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasbelvedere
-- 👀 I’m currently student at UC Irvine, studying CS with a specialization in AI.
-- 🌱 I’m interested in machine learning!
+- 👀 I’m a UC Irvine computer science major, with a specialization in AI.
+- 🌱 I’m currently studying fullstack development, machine learning, and computer vision.
 - 📫 How to reach me? https://www.linkedin.com/in/lucas-cesar-belvedere-574810199/
 - 📩 You can also email me! cesar.belved@gmail.com
 
