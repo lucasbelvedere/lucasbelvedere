@@ -1,7 +1,7 @@
 # Hi there, I'm Lucas Cesar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Junior+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;AWS+Solutions+Architect+(In+Progress)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Junior+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;AWS+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
