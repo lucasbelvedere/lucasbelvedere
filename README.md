@@ -11,7 +11,7 @@ I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passion
 - 🎓 **Education**: B.S. in Computer Science from **University of California, Irvine**
   - 🤖 Specialization in **Intelligent Systems (Artificial Intelligence)**
 - 💼 **Current Role**: Junior Software Developer at **OC Solar**
-- 🌱 **Currently Learning**: AWS Solutions Architect certification
+<!-- - 🌱 **Currently Learning**: AWS Solutions Architect certification -->
 - 🎮 **Interests**: Computer Science, Video Games, and Travelling 🌍
 
 ## 💻 Technical Skills
