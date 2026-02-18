@@ -1,16 +1,16 @@
 # Hi there, I'm Lucas Cesar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Junior+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;AWS+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;AWS+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passionate Junior Software Developer at **OC Solar** with a strong foundation in artificial intelligence and a love for building innovative solutions.
+I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passionate Software Engineer at **OC Solar** with a strong foundation in artificial intelligence and a love for building innovative solutions.
 
 - 🎓 **Education**: B.S. in Computer Science from **University of California, Irvine**
   - 🤖 Specialization in **Intelligent Systems (Artificial Intelligence)**
-- 💼 **Current Role**: Junior Software Developer at **OC Solar**<!-- - 🌱 **Currently Learning**: AWS Solutions Architect certification -->
+- 💼 **Current Role**: Software Engineer at **OC Solar**<!-- - 🌱 **Currently Learning**: AWS Solutions Architect certification -->
 - 🎮 **Interests**: Computer Science, Video Games, and Travelling 🌍
 
 ## 💻 Technical Skills
@@ -45,9 +45,8 @@ I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passion
 
 ## 🌟 What I'm Up To
 
-- 📚 Preparing for **AWS Solutions Architect** certification
-- 🔧 Enhancing my full-stack development skills
-- 🧠 Exploring advanced machine learning techniques
+- 🔧 Enhancing my cloud architecture and backend software engineering skills
+- 🧠 Exploring advanced machine learning techniques on the side
 - 🚀 Contributing to innovative projects at OC Solar
 
 ## 📫 Let's Connect!
