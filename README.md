@@ -1,12 +1,12 @@
 # Hi there, I'm Lucas Cesar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;AWS+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+With+Passion;AI+%26+Machine+Learning+Enthusiast;Backend+%26+Cloud+Engineer;AWS+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passionate Software Engineer at **OC Solar** with a strong foundation in artificial intelligence and a love for building innovative solutions.
+I'm **Lucas Cesar Belvedere**! I'm a passionate Software Engineer at **OC Solar** with a strong foundation in backend, cloud infrastructure, and DevOps.
 
 - 🎓 **Education**: B.S. in Computer Science from **University of California, Irvine**
   - 🤖 Specialization in **Intelligent Systems (Artificial Intelligence)**
@@ -15,13 +15,16 @@ I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passion
 
 ## 💻 Technical Skills
 
-### **Languages & Frameworks**
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Frameworks**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -32,20 +35,21 @@ I'm **Lucas Cesar Belvedere**, but feel free to call me **Cesar**! I'm a passion
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🎯 Areas of Expertise
 
-- 🎨 **Frontend Development**: Creating responsive and intuitive user interfaces
 - ⚙️ **Backend Development**: Building robust and scalable server-side applications
 - ☁️ **Cloud Computing**: Designing and implementing cloud-based solutions
-- 🤖 **Artificial Intelligence**: Developing intelligent systems and machine learning models
-- 📊 **Machine Learning**: Building predictive models and data-driven solutions
-- 🏗️ **Full Stack Development**: End-to-end application development
+- 🚀 **DevOps**: Streamlining development workflows through automation, CI/CD, infrastructure as code, and reliable deployment practices
+- 🤖 **AI and Machine Learning*: Developing intelligent systems and machine learning models
 
 ## 🌟 What I'm Up To
 
-- 🔧 Enhancing my cloud architecture and backend software engineering skills
+- 🔧 Enhancing my cloud architecture and backend software engineering skills, as well as OC Solar's CI/CD pipeline
 - 🧠 Exploring advanced machine learning techniques on the side
 - 🚀 Contributing to innovative projects at OC Solar
 
