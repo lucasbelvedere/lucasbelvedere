@@ -53,7 +53,7 @@ I'm **Lucas Cesar Belvedere**! I'm a passionate Software Engineer at **OC Solar*
 - ⚙️ **Backend Development**: Building robust and scalable server-side applications
 - ☁️ **Cloud Computing**: Designing and implementing cloud-based solutions
 - 🚀 **DevOps**: Streamlining development workflows through automation, CI/CD, infrastructure as code, and reliable deployment practices
-- 🤖 **AI and Machine Learning*: Developing intelligent systems and machine learning models
+- 🤖 **AI and Machine Learning**: Developing intelligent systems and machine learning models
 
 ## 🌟 What I'm Up To
 
