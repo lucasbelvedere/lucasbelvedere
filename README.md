@@ -32,6 +32,7 @@ I'm **Lucas**, a Software Engineer at **OC Solar**, where I develop and maintain
 
 ### Cloud & DevOps
 <p>
+  
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -60,6 +61,10 @@ I'm **Lucas**, a Software Engineer at **OC Solar**, where I develop and maintain
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
 </p>
+
+## Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a9afac4c-2bc8-4337-8469-8248f887ea2a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🎯 Areas of Expertise
 
