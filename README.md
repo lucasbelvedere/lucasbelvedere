@@ -25,7 +25,7 @@ I'm **Lucas**, a Software Engineer at **OC Solar**, where I develop and maintain
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/38836c32-7814-4ef1-80ca-a2f202e986cc/public_url">
-  <img src="PASTE_BADGE_IMAGE_URL_HERE" alt="Certification name" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" alt="Certification" width="150"/>
 </a>
 
 ## 🎯 Areas of Expertise
