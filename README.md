@@ -15,7 +15,7 @@ I'm **Lucas**, a Software Engineer at **OC Solar**, where I develop and maintain
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,java,c,cpp,nodejs,django,aws,gcp,docker,kubernetes,terraform,githubactions,linux,git,postgres,mysql,mongodb,firebase,dynamodb,pytorch,tensorflow,sklearn&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,java,c,cpp,nodejs,django,aws,gcp,docker,kubernetes,terraform,githubactions,linux,git,postgres,mysql,mongodb,firebase,dynamodb,pytorch,tensorflow,sklearn&perline=12)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
 
