@@ -64,7 +64,9 @@ I'm **Lucas**, a Software Engineer at **OC Solar**, where I develop and maintain
 
 ## Certifications
 
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/a9afac4c-2bc8-4337-8469-8248f887ea2a/public_url)
+<a href="https://www.credly.com/badges/a9afac4c-2bc8-4337-8469-8248f887ea2a/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
+</a>
 
 ## 🎯 Areas of Expertise
 
